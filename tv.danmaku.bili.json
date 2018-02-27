@@ -7,7 +7,7 @@
       "LWL12"
    ],
    "reason":{
-      "zh_CN":"该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途，重定向后未见应用异常。",
+      "zh_CN":"该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途。<br><br>重定向后应用内游戏无法正常下载，目前解决方法未知。",
       "default":"The application will create an empty folder in the root directory of the storage. Currently, the folder usage is not observed. After the redirection, no application exception is found."
    },
    "observers":[
